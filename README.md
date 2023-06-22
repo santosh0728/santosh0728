@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/@santosh53745785" target="blank"><img src="https://img.shields.io/twitter/follow/@santosh53745785?logo=twitter&style=for-the-badge" alt="@santosh53745785" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning: **MERN Stack**
 
-- 💬 Ask me about **React,NodeJs,MongoDb,ExpressJs,Java,Python,Flutter**
+- 💬 Ask me about: **React,NodeJs,MongoDb,ExpressJs,Java,Python,Flutter**
 
-- 📫 How to reach me **ssrusan@gmail.com**
+- 📫 How to reach me: **ssrusan@gmail.com**
 
-- ⚡ Fun fact **Trust Me! I am damn serious!**
+- ⚡ Fun fact: **Trust Me! I am damn serious!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
